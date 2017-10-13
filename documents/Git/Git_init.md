@@ -97,6 +97,45 @@ $ git init
 
 `--bare`仓库是用来创建中央仓库，这这种仓库的特点是没有工作目录，所以通过`--bare`创建的仓库不建议进行编辑操作，只允许`pull` 和 `push`操作。所以可以使用该命令在自己的服务器上搭建一个git仓库作为中央仓库进行代码管理。
 
+### --template=\<template_directory\>
+
+`--template`选项用来指定git仓库的**模版**，这里的模版是指git仓库依赖、配置的模版，而不是工作目录的模版。
+
+当我们执行下面的命令时：
+
+```shell
+$ git init --template=absolute/path/to/template repo_name
+```
+
+git会将template目录下的所有文件拷贝到`$GIT_DIR`指定的目录中，如果`$GIT_DIR`没有设置则拷贝到默认的`.git`目录中。
+
+新建git仓库`.git`目录结构：
+
+```git
+# my-repo
+
+|- .git
+	|- HEAD
+	|- config
+	|- objects
+		|- info
+		|- pack
+	|- refs
+		|- heads
+		|- tags
+```
+
+如果模版所在目录中包含上面`.git`目录中这些文件，git则直接将模版目录下的文件拷贝到`$GIT_DIR`指定的目录中；如果缺少git仓库依赖的配置、存储等文件或者目录时，git会自己创建一个默认的来代替模版目录中缺失的部分。
+
+`$GIT_DIR`目录中文件的来源顺序如下：
+
+* 如果命令行使用了`--template`选项，则使用`--template`之后的路径中的文件填充`$GIT_DIR`
+* 如果设置了`$GIT_TEMPLATE_DIR`环境变量，则使用`$GIT_TEMPLATE_DIR`指定的路径中的文件填充`$GIT_DIR`
+* 如果配置了`init.temlateDir`，则使用其指定的目录
+* 默认的模版目录：`/usr/share/git-core/template`
+
+**注：模版文件所在的目录，要使用绝对路径来指定。**
+
 ## 参考链接
 
 * [git init](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init)
