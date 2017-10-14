@@ -136,6 +136,30 @@ git会将template目录下的所有文件拷贝到`$GIT_DIR`指定的目录中�
 
 **注：模版文件所在的目录，要使用绝对路径来指定。**
 
+### --separate-git-dir=\<git dir\>
+
+当创建仓库时使用这个选项，git依赖的文件既不会放在`$GIT_DIR`指定的目录中，也不会放在`.git`目录中，而是将git仓库的所有依赖存放到`<git dir>`指定的目录中。
+
+```shell
+$ git init --separate-git-dir=/Users/taoxin/workspace/git/git_repo_dir my_repo
+
+$ cd my_repo
+$ ls -Al
+-rw-r--r--  1 taoxin  staff  49 Oct 13 18:20 .git
+
+$ cat .git
+gitdir: /Users/taoxin/workspace/git/git_repo_dir
+```
+
+从上面的代码可以看出，当使用`--separate-git-dir`选项时，git并没有创建存放仓库依赖的目录，而是创建了一个文本文件，其中存放着真正存放git仓库依赖的目录的路径。
+
+```shell
+$ ls git_repo_dir
+HEAD         branches/    config       description  hooks/       info/        objects/     refs/
+```
+
+真正的git仓库依赖存放在`git_repo_dir`目录中。
+
 ## 参考链接
 
 * [git init](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init)
