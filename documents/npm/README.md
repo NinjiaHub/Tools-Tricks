@@ -6,7 +6,13 @@
 
 ## 推荐阅读顺序
 
-* [修复npm安装全局包/命令的权限问题](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/npm/npm%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98.md)
+* 起步
+	* 安装 
+		* [修复npm安装全局包/命令的权限问题](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/npm/npm%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98.md)
+		* [局部安装npm包](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/npm/npm%E5%B1%80%E9%83%A8%E5%AE%89%E8%A3%85%E5%8C%85%E7%9A%84%E7%AE%A1%E7%90%86.md)
+	* 进阶
+		* [npm以及Semantic versioning](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/npm/npm%E4%BB%A5%E5%8F%8ASemver.md)
+		* [Node查找依赖包/库的规则](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/npm/Node%E6%9F%A5%E6%89%BE%E4%BE%9D%E8%B5%96%E5%8C%85-%E5%BA%93%E7%9A%84%E8%A7%84%E5%88%99.md)
 
 ## 声明
 
