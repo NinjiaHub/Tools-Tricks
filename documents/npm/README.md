@@ -15,6 +15,8 @@
 	* 进阶
 		* [npm以及Semantic versioning](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/npm/npm%E4%BB%A5%E5%8F%8ASemver.md)
 		* [Node查找依赖包/库的规则](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/npm/Node%E6%9F%A5%E6%89%BE%E4%BE%9D%E8%B5%96%E5%8C%85-%E5%BA%93%E7%9A%84%E8%A7%84%E5%88%99.md)
+* CLI Commands
+	* [CLI Commands Git仓库地址](https://github.com/NinjiaHub/NPM-CLI-Commands)
 
 ## 声明
 
