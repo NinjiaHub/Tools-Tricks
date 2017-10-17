@@ -12,6 +12,7 @@
 		* [局部安装npm包](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/npm/npm%E5%B1%80%E9%83%A8%E5%AE%89%E8%A3%85%E5%8C%85%E7%9A%84%E7%AE%A1%E7%90%86.md)
 		* [使用package.json](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/npm/%E4%BD%BF%E7%94%A8package.json.md)
 		* [npm更新／卸载本地npm包](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/npm/npm%E6%9B%B4%E6%96%B0%E4%B8%8E%E5%8D%B8%E8%BD%BD%E6%9C%AC%E5%9C%B0npm%E5%8C%85.md)
+		* [npm全局安装包的管理](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/npm/npm%E5%85%A8%E5%B1%80%E5%AE%89%E8%A3%85%E5%8C%85%E7%9A%84%E7%AE%A1%E7%90%86.md)
 	* 创建/发布npm包
 	* 进阶
 		* [npm以及Semantic versioning](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/npm/npm%E4%BB%A5%E5%8F%8ASemver.md)
