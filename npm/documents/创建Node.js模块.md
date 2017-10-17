@@ -1,6 +1,6 @@
 # 创建Node.js模块
 
-Node.js模块也是可以发布到npm的包的一种。当开始创建一个新的Node.js模块时，最好从`package.json`文件开始。关于`package.json`文件的使用，请戳👉[使用package.json](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/npm/%E4%BD%BF%E7%94%A8package.json.md)。
+Node.js模块也是可以发布到npm的包的一种。当开始创建一个新的Node.js模块时，最好从`package.json`文件开始。关于`package.json`文件的使用，请戳👉[使用package.json](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/%E4%BD%BF%E7%94%A8package.json.md)。
 
 在创建包的时候，如果没有特殊需求，可以使用`package.json`中的**main**来指定该包的入口文件，约定俗成的入口文件为模块根目录下的`index.js`文件。
 

@@ -20,7 +20,7 @@ Short key ID:                                         A4FF 2279
 
 ## 配置Git中的user.signingkey
 
-不熟悉Git配置的同学可以👉[戳这里(Git Config)](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/Git/Git_Config.md)。
+不熟悉Git配置的同学可以👉[戳这里(Git Config)](https://github.com/NinjiaHub/Tools-Tricks/blob/master/Git/documents/Git_Config.md)。
 
 `user.signingkey`的作用是设置一个git默认使用的GPG公钥对应的`key id`，这样当使用Git的`签名tag`和`签名commit`功能时，git会根据`user.signingkey`中设置的`key id`获取对应的GPG公钥来签署`tag`或者`commit`。
 
@@ -46,7 +46,7 @@ $ git tag -s <tagname> -m "some info about this tag."
 $ git tag <tagname> -u <keyid> -m "some info about this tag."
 ```
 
-**Git tag相关的操作请👉[戳这里(Git中的tag)](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/Git/Git%E4%B8%AD%E7%9A%84tag.md)**
+**Git tag相关的操作请👉[戳这里(Git中的tag)](https://github.com/NinjiaHub/Tools-Tricks/blob/master/Git/documents/Git%E4%B8%AD%E7%9A%84tag.md)**
 
 ## GPG签署commit
 
