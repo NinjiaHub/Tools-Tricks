@@ -2,7 +2,7 @@
 
 主要介绍Node中的js包管理工具：`npm`相关的概念、用法以及一些常见问题的解决办法。
 
-该系列文章的主要参考文档为[npm官方文档]()，其余参考文章及文档，会在文章中的**参考**部分给出。
+该系列文章的主要参考文档为[npm官方文档](https://docs.npmjs.com/)，其余参考文章及文档，会在文章中的**参考**部分给出。
 
 ## 推荐阅读顺序
 
@@ -18,8 +18,15 @@
 	* 进阶
 		* [npm以及Semantic versioning](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/npm%E4%BB%A5%E5%8F%8ASemver.md)
 		* [Node查找依赖包/库的规则](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/Node%E6%9F%A5%E6%89%BE%E4%BE%9D%E8%B5%96%E5%8C%85-%E5%BA%93%E7%9A%84%E8%A7%84%E5%88%99.md)
+* How npm works
 * CLI Commands
 	* [CLI Commands Git仓库地址](https://github.com/NinjiaHub/NPM-CLI-Commands)
+
+## 注释
+
+### 关于CLI Commands
+
+其实npm CLI Commands属于npm工具，是npm的一部分，但是在刚开写npm这部分时计划根据自己的使用经验以及完整看官方文档写一个总结+笔记的东西，后来再完整看npm CLI Commands这部分时，感觉作为一个完整的翻译应该比较好，所以npm CLI Commands这部分作为一个单独的仓库拆出去了，但是依然写在了npm的推荐阅读部分，也算是全面掌握npm时需要熟练掌握的部分。
 
 ## 声明
 
@@ -30,3 +37,8 @@
 多数文章中的内容是在学习的过程中记录的，所以难免有错误、不准确和不恰当的地方，有问题的地方请斧正，请提`Merge Request`给作者。
 
 作者邮箱：web.taox@mail.com。
+
+## Author Info
+
+* [GitHub](https://github.com/Tao-Quixote)
+* Email: web.taox@gmail.com
