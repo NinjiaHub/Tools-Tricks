@@ -7,6 +7,8 @@
 ## 推荐阅读顺序
 
 * 起步
+	* 概念
+		* [什么是npm](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/%E4%BB%80%E4%B9%88%E6%98%AFnpm.md)
 	* 安装 
 		* [修复npm安装全局包/命令的权限问题](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/npm%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98.md)
 		* [局部安装npm包](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/npm%E5%B1%80%E9%83%A8%E5%AE%89%E8%A3%85%E5%8C%85%E7%9A%84%E7%AE%A1%E7%90%86.md)
