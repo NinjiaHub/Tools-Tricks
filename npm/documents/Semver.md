@@ -1,4 +1,4 @@
-# npm以及Semantic versioning
+# Semantic versioning
 
 本文正在写ZZ，因为别的文件要引用，所以先占位。
 

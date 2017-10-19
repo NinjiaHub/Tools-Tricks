@@ -32,7 +32,7 @@ $ ls node_modules
 一个npm包可能有很多个版本，在执行`npm install <package_name>`安装包时遵循以下规则：
 
 * 1、本地目录中没有`package.json`文件，如果`package_name`标识的npm包存在，则安装该包已经发布的最新版本
-* 2、本地目录中有`package.json`文件，则根据[Semver规则](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/npm%E4%BB%A5%E5%8F%8ASemver.md)来安装符合规则版本的安装包
+* 2、本地目录中有`package.json`文件，则根据[SemVer规则](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/SemVer.md)来安装符合规则版本的安装包
 
 ## 使用已安装的包
 
