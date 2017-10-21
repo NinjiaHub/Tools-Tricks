@@ -3,7 +3,7 @@
 为了方便管理本地已经安装的npm包和项目依赖，可以使用`package.json`文件。使用`package.json`文件管理npm包的优点：
 
 * 1、可以作为项目依赖的文档
-* 2、可以使用[Semantic versioning](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/SemVer.md)规则来声明项目允许使用的npm包的版本
+* 2、可以使用[Semantic versioning](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/SemVer.md)规则来声明项目允许使用的npm包的版本
 * 3、便于分享，在分享自己的项目时，不需要在项目中保留npm包，只需要在项目根目录(推荐)中保留一个`package.json`文件，其他人只要在`package.json`文件所在的目录运行`npm install`就可以安装所有的项目依赖了
 
 ## 文件要求
@@ -16,7 +16,7 @@
 	* 可以使用短横线(-)和下划线(_)
 * version
 	* 格式 x.x.x
-	* 遵循[Semantic versioning](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/SemVer.md)规则
+	* 遵循[Semantic versioning](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/SemVer.md)规则
 
 ```node
 {
@@ -133,7 +133,7 @@ $ npm install <package_name> --save-dev
 
 正常情况下，推荐使用`--save` 和 `--save-dev`实现记录包信息到package.json文件的目的，如果在安装时忘记了，可以通过手动修改来记录，不过比较麻烦。
 
-手动修改`package.json`文件时，请遵循[SemVer规则](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/SemVer.md)来书写npm包的版本号。
+手动修改`package.json`文件时，请遵循[SemVer规则](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/SemVer.md)来书写npm包的版本号。
 
 ## 根据package.json安装项目依赖
 

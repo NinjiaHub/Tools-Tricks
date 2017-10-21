@@ -8,18 +8,19 @@
 
 * 起步
 	* 概念
-		* [什么是npm](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/%E4%BB%80%E4%B9%88%E6%98%AFnpm.md)
+		* [什么是npm](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/%E4%BB%80%E4%B9%88%E6%98%AFnpm.md)
 	* 安装 
-		* [修复npm安装全局包/命令的权限问题](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/npm%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98.md)
-		* [局部安装npm包](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/npm%E5%B1%80%E9%83%A8%E5%AE%89%E8%A3%85%E5%8C%85%E7%9A%84%E7%AE%A1%E7%90%86.md)
-		* [使用package.json](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/%E4%BD%BF%E7%94%A8package.json.md)
-		* [npm更新／卸载本地npm包](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/npm%E6%9B%B4%E6%96%B0%E4%B8%8E%E5%8D%B8%E8%BD%BD%E6%9C%AC%E5%9C%B0npm%E5%8C%85.md)
-		* [npm全局安装包的管理](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/npm%E5%85%A8%E5%B1%80%E5%AE%89%E8%A3%85%E5%8C%85%E7%9A%84%E7%AE%A1%E7%90%86.md)
+		* [修复npm安装全局包/命令的权限问题](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/npm%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98.md)
+		* [局部安装npm包](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/npm%E5%B1%80%E9%83%A8%E5%AE%89%E8%A3%85%E5%8C%85%E7%9A%84%E7%AE%A1%E7%90%86.md)
+		* [使用package.json](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/%E4%BD%BF%E7%94%A8package.json.md)
+		* [npm更新／卸载本地npm包](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/npm%E6%9B%B4%E6%96%B0%E4%B8%8E%E5%8D%B8%E8%BD%BD%E6%9C%AC%E5%9C%B0npm%E5%8C%85.md)
+		* [npm全局安装包的管理](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/npm%E5%85%A8%E5%B1%80%E5%AE%89%E8%A3%85%E5%8C%85%E7%9A%84%E7%AE%A1%E7%90%86.md)
 	* 创建/发布npm包
-		* [创建Node.js模块](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/%E5%88%9B%E5%BB%BANode.js%E6%A8%A1%E5%9D%97.md)
+		* [创建Node.js模块](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/%E5%88%9B%E5%BB%BANode.js%E6%A8%A1%E5%9D%97.md)
 	* 进阶
-		* [SemVer](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/SemVer.md)
-		* [Node查找依赖包/库的规则](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/Node%E6%9F%A5%E6%89%BE%E4%BE%9D%E8%B5%96%E5%8C%85-%E5%BA%93%E7%9A%84%E8%A7%84%E5%88%99.md)
+		* [SemVer](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/SemVer.md)
+		* [Node查找依赖包/库的规则](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/Node%E6%9F%A5%E6%89%BE%E4%BE%9D%E8%B5%96%E5%8C%85-%E5%BA%93%E7%9A%84%E8%A7%84%E5%88%99.md)
+		* [使用范围包-scoped-packages](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/getting-started/%E4%BD%BF%E7%94%A8%E8%8C%83%E5%9B%B4%E5%8C%85-scoped-packages.md)
 * How npm works
 * CLI Commands
 	* [CLI Commands Git仓库地址](https://github.com/NinjiaHub/NPM-CLI-Commands)

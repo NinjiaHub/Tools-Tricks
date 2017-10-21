@@ -12,7 +12,7 @@
 $ npm install -g <package_name>
 ```
 
-如果遇到<span style="color: red;">`EACCES error`</span>，请参考[修复npm安装全局包/命令的权限问题](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/npm%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98.md)。在Unix-like系统中，也可以尝试使用`sudo`来解决问题，但是要注意不要使用下面的命令：
+如果遇到<span style="color: red;">`EACCES error`</span>，请参考[修复npm安装全局包/命令的权限问题](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/npm%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98.md)。在Unix-like系统中，也可以尝试使用`sudo`来解决问题，但是要注意不要使用下面的命令：
 
 ```shell
 $ sudo npm install -g <package_name>

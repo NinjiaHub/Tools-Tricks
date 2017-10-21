@@ -32,7 +32,7 @@ $ ls node_modules
 一个npm包可能有很多个版本，在执行`npm install <package_name>`安装包时遵循以下规则：
 
 * 1、本地目录中没有`package.json`文件，如果`package_name`标识的npm包存在，则安装该包已经发布的最新版本
-* 2、本地目录中有`package.json`文件，则根据[SemVer规则](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/SemVer.md)来安装符合规则版本的安装包
+* 2、本地目录中有`package.json`文件，则根据[SemVer规则](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/SemVer.md)来安装符合规则版本的安装包
 
 ## 使用已安装的包
 
@@ -55,7 +55,7 @@ console.log(output);
 
 通过Node运行index.js文件，可以得到输出结果`[2, 3]`。
 
-**注：Node有一套自己查找依赖包的规则，详情请戳👉[Node查找依赖包/库的规则](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/Node%E6%9F%A5%E6%89%BE%E4%BE%9D%E8%B5%96%E5%8C%85-%E5%BA%93%E7%9A%84%E8%A7%84%E5%88%99.md)**
+**注：Node有一套自己查找依赖包的规则，详情请戳👉[Node查找依赖包/库的规则](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/Node%E6%9F%A5%E6%89%BE%E4%BE%9D%E8%B5%96%E5%8C%85-%E5%BA%93%E7%9A%84%E8%A7%84%E5%88%99.md)**
 
 ## 参考
 

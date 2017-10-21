@@ -12,7 +12,7 @@
 @username/project-name
 ```
 
-其中的范围`username`即为在[npm](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/%E4%BB%80%E4%B9%88%E6%98%AFnpm.md)上注册时的用户名。
+其中的范围`username`即为在[npm](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/%E4%BB%80%E4%B9%88%E6%98%AFnpm.md)上注册时的用户名。
 
 ## 使用范围包的要求
 
