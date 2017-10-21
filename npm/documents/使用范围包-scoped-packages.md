@@ -12,4 +12,98 @@
 @username/project-name
 ```
 
-其中的范围`username`即为在npm上注册时的用户名。
+其中的范围`username`即为在[npm](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/%E4%BB%80%E4%B9%88%E6%98%AFnpm.md)上注册时的用户名。
+
+## 使用范围包的要求
+
+要使用范围包需要npm的版本在2.7.0之上；如果是第一次使用范围包，需要在命令行登陆：
+
+```shell
+$ npm login
+Username: taoquixote
+Password: 
+Email: (this IS public) web.taox@gmail.com
+```
+
+在登陆时，npm会将上面的提示依次输出提示你输入需要的登陆信息。
+
+## 初始化一个范围包
+
+1、如果要将现有的npm包转换为范围包，只需要将`package.json`中的`name`部分改成如下格式：
+
+```package.json
+{
+	"name": "@username/my-project"
+}
+```
+
+2、如果是使用`npm init`初始化一个npm范围包，可以在命令行中加上**scope**选项：
+
+```shell
+$ npm init --scope=username
+```
+
+3、如果是在全局范围内一直使用一个固定的**范围(scope)**的话，可以在`.npmrc`文件中配置默认的scope：
+
+```shell
+$ npm config set scope username
+```
+
+## 发布范围包
+
+范围包默认是私有的，但是在npm中私有包是收费的，详情请参考[Private Module](https://www.npmjs.com/features)。
+
+npm中发布公开的范围包是不需要付费订阅的，所以如果想发布公开的范围包，可以在命令中加上`--access`选项来指定访问权，命令如下：
+
+```shell
+$ npm publish --access=public @username/project-name
+```
+
+## 使用范围包
+
+1、使用范围包时，只需要在`package.json`文件中包名前加上范围(scope):
+
+```package.json
+{
+	"dependencies": {
+		"@username/project-name": "^1.0.0"
+	}
+}
+```
+
+2、使用命令行安装范围包：
+
+```shell
+$ npm install @username/project-name --save
+```
+
+3、Node中使用**require**加载范围包：
+
+```javascript/Node
+let sp = require('@username/project-name')
+```
+
+4、ES6中使用**import**加载范围包：
+
+```javascript
+import sp from '@username/project-name'
+```
+
+## 参考
+
+* [Working with scoped packages](https://docs.npmjs.com/getting-started/scoped-packages)
+
+## 声明
+
+本文部分内容来自网络，如有版权问题请联系作者。
+
+侵删。
+
+内容如有不恰当或错误，敬请指正。
+
+作者邮箱：web.taox@gmail.com。
+
+## Author Info
+
+* [GitHub](https://github.com/Tao-Quixote)
+* Email: web.taox@gmail.com
