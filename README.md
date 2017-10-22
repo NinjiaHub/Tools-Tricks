@@ -4,7 +4,8 @@
 
 * [Babel](https://github.com/NinjiaHub/Tools-Tricks/tree/master/Babel)：ES5+语法转译工具
 * [Git](https://github.com/NinjiaHub/Tools-Tricks/tree/master/Git)：版本管理工具
-* [npm](https://github.com/NinjiaHub/Tools-Tricks/tree/master/npm)：Node包管理工具
+* [Npm](https://github.com/NinjiaHub/Tools-Tricks/tree/master/npm)：Node包管理工具
+* [Yarn](https://github.com/NinjiaHub/Tools-Tricks/tree/master/Yarn)：Node包管理工具(Facebook, Google等联合开发)
 
 ## Tips
 
