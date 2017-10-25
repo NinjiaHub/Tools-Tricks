@@ -23,6 +23,7 @@
 		* [使用范围包-scoped-packages](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/getting-started/%E4%BD%BF%E7%94%A8%E8%8C%83%E5%9B%B4%E5%8C%85-scoped-packages.md)
 		* [使用标签](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/%E4%BD%BF%E7%94%A8%E6%A0%87%E7%AD%BE.md)
 		* [npm中使用2FA](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/npm%E4%B8%AD%E4%BD%BF%E7%94%A82FA.md)
+		* [使用token](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/%E4%BD%BF%E7%94%A8token.md)
 		* [使用命令行修改个人简介](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BF%AE%E6%94%B9%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B.md)
 * How npm works
 * CLI Commands
