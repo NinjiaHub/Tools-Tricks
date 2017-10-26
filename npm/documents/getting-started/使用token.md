@@ -71,6 +71,61 @@ $ npm token create
 
 由于没有明确指定`--read-only`，所以readonly部分的值为false，即该token默认拥有当前登陆npm账户的所有权限。
 
+### 创建一个新的**read-only**权限token
+
+可以使用`npm token create` 中的`--read-only`选项来生成一个`read-only`权限的token。
+
+如果开启了2FA，npm会提示输入npm密码，以及OTP，之后，npm会列出如下表格：
+
+![npm-token-create-readonly](../../../images/npm/getting-started/npm-token-create-readonly.png)
+
+从上面的表格中可以看到，`readonly`项被设置为`true`。
+
+### 创建具有CIDR限制的token
+
+为了限制token只能在指定的ip地址中使用，可以创建一个CIDR限制的token。CIDR是**Classless Inter-Domain Routing**的缩写，详情请戳👉[CIDR Wiki](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)。
+
+例如：
+
+```shell
+$ npm token create --cidr=102.0.2.0/24
+```
+如果开启了2FA，npm会提示输入npm密码，以及OTP，之后，npm会列出如下表格：
+
+![CIDR-create-token](../../../images/npm/getting-started/CIDR-create-token.png)
+
+如果输入的CIDR字符串无效，npm可能会给出如下的错误信息：
+
+> npm ERR! CIDR whitelist contains invalid CIDR entry: X.X.X.X./YY,Z.Z.. . .
+
+**注：npm现在只支持IPv4。**
+
+### 创建CIDR限制且只读的token
+
+```shell
+$ npm token create --read-only --cidr=list
+```
+
+### 移除token
+
+npm允许删除一个任意时间创建的token，这样就可以允许使用者收回权限。
+
+删除token命令：
+
+```shell
+$ npm token delete <id | token>
+```
+
+删除步骤：
+
+* 1、使用`npm token list`找出所有token
+* 2、找到要删除token对应的id
+* 3、使用`npm token delete <id>`删除token，这里的**id**指token列表中对应token前的id
+
+最后使用`npm token list`列出所有token的列表来查看对应的token是否成功删除：
+
+![npm-token-revoke-shorter](../../../images/npm/getting-started/npm-token-revoke-shorter.png)
+
 ## 参考
 
 * [Working with tokens](https://docs.npmjs.com/getting-started/working_with_tokens)
