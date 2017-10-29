@@ -27,6 +27,7 @@
 		* [使用命令行修改个人简介](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BF%AE%E6%94%B9%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B.md)
 * How npm works
 	* [01-包和模块(Packages-and-Modules)](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/packages.md)
+	* [02-npm v2](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm2.md)
 * CLI Commands
 	* [CLI Commands Git仓库地址](https://github.com/NinjiaHub/NPM-CLI-Commands)
 	* CLI Commands Links
