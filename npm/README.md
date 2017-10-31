@@ -28,6 +28,7 @@
 * How npm works
 	* [01-包和模块(Packages-and-Modules)](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/packages.md)
 	* [02-npm v2](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm2.md)
+	* [03-npm v3](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm2.md)
 * CLI Commands
 	* [CLI Commands Git仓库地址](https://github.com/NinjiaHub/NPM-CLI-Commands)
 	* CLI Commands Links
