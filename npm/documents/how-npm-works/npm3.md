@@ -45,6 +45,10 @@ $ npm ls --depth=0
 
 ![npmlsdepth0](../../../images/npm/how-npm-works/npmlsdepth0.png)
 
+## 进阶
+
+* [npm3依赖重复以及去重](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm3-dupe.md)
+
 ## 原文链接
 
 * [npm v3 Dependency Resolution](https://docs.npmjs.com/how-npm-works/npm3)
