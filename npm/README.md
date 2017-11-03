@@ -29,7 +29,8 @@
 	* [01-包和模块(Packages-and-Modules)](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/packages.md)
 	* [02-npm v2](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm2.md)
 	* [03-npm v3](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm3.md)
-	* [04-npm v3 Duplication](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm3-dupe.md)
+	* [04-npm v3 依赖重复](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm3-dupe.md)
+	* [05-npm v3 不确定性](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm3-nondet.md)
 * CLI Commands
 	* [CLI Commands Git仓库地址](https://github.com/NinjiaHub/NPM-CLI-Commands)
 	* CLI Commands Links
