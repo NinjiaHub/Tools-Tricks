@@ -34,6 +34,7 @@
 * CLI Commands
 	* [CLI Commands Git仓库地址](https://github.com/NinjiaHub/NPM-CLI-Commands)
 	* CLI Commands Links
+		* [npm-ls](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-ls.md "npm-ls")
 		* [npm-outdated](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-outdated.md)
 		* [npm-profile](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-profile.md)
 		* [npm-prune](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-prune.md "npm-prune")
