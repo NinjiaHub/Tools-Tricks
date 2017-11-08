@@ -37,6 +37,7 @@
 		* [npm-bin](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-bin.md "npm-bin")
 		* [npm-ls](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-ls.md "npm-ls")
 		* [npm-outdated](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-outdated.md)
+		* [npm-prefix](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-prefix.md "npm-prefix")
 		* [npm-profile](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-profile.md)
 		* [npm-prune](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-prune.md "npm-prune")
 		* [npm-repo](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-repo.md "npm-repo")
