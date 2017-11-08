@@ -39,6 +39,7 @@
 		* [npm-outdated](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-outdated.md)
 		* [npm-profile](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-profile.md)
 		* [npm-prune](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-prune.md "npm-prune")
+		* [npm-repo](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-repo.md "npm-repo")
 		* [npm-star](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-star.md "npm-star")
 		* [npm-stars](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-stars.md "npm-stars")
 		* [npm-token](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-token.md)
