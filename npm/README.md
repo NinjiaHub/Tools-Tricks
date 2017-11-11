@@ -31,9 +31,9 @@
 	* [03-npm v3](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm3.md)
 	* [04-npm v3 依赖重复](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm3-dupe.md)
 	* [05-npm v3 不确定性](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm3-nondet.md)
-* CLI Commands
+* CLI 命令
 	* [CLI Commands Git仓库地址](https://github.com/NinjiaHub/NPM-CLI-Commands)
-	* CLI Commands Links
+	* CLI 命令链接
 		* [npm-bin](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-bin.md "npm-bin")
 		* [npm-bugs](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-bugs.md "npm-bugs")
 		* [npm-dedupe](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dedupe.md "npm-dedupe")
