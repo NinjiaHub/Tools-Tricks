@@ -48,6 +48,7 @@
 		* [npm-stars](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-stars.md "npm-stars")
 		* [npm-start](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-start.md "npm-start")
 		* [npm-stop](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-stop.md "npm-stop")
+		* [npm-test](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-test.md "npm-test")
 		* [npm-token](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-token.md)
 		* [npm-whoami](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-whoami.md "npm-whoami")
 
