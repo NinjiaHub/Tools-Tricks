@@ -38,6 +38,7 @@
 		* [npm-bugs](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-bugs.md "npm-bugs")
 		* [npm-dedupe](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dedupe.md "npm-dedupe")
 		* [npm-docs](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-docs.md "npm-docs")
+		* [npm-edit](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-edit.md "npm-edit")
 		* [npm-help](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-help.md "npm-help")
 		* [npm-help-search](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-help-search.md "npm-help-search")
 		* [npm-ls](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-ls.md "npm-ls")
