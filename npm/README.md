@@ -36,6 +36,7 @@
 	* CLI 命令链接
 		* [npm-bin](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-bin.md "npm-bin")
 		* [npm-bugs](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-bugs.md "npm-bugs")
+		* [npm-config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-config")
 		* [npm-dedupe](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dedupe.md "npm-dedupe")
 		* [npm-docs](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-docs.md "npm-docs")
 		* [npm-edit](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-edit.md "npm-edit")
