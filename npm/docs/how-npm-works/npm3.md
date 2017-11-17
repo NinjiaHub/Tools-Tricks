@@ -47,7 +47,7 @@ $ npm ls --depth=0
 
 ## 进阶
 
-* [npm3依赖重复以及去重](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm3-dupe.md)
+* [npm3依赖重复以及去重](https://ninjiahub.github.io/Tools-Tricks/npm/docs/how-npm-works/npm3-dupe)
 
 ## 原文链接
 
