@@ -4,7 +4,7 @@
 
 ## 推荐阅读顺序
 
-* [Transpiling&Polyfilling.md](https://github.com/NinjiaHub/Tools-Tricks/blob/master/Babel/documents/Transpiling%26Polyfilling.md)
+* [Transpiling & Polyfilling](./docs/Transpiling%26Polyfilling.md)
 
 ## 声明
 
