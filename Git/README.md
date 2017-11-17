@@ -4,15 +4,15 @@
 
 ## 推荐阅读顺序 🔗
 
-* [git-init](./docs/Git_init "git init")
-* [git-config](./docs/Git_Config "git conifg")
-* [git忽略文件](./docs/Git%E5%BF%BD%E7%95%A5%E6%96%87%E4%BB%B6 "git忽略文件")
-* [git-add](./docs/Git%E4%B8%AD%E7%9A%84add%E5%88%B0%E5%BA%95%E5%81%9A%E4%BA%86%E4%BB%80%E4%B9%88 "git add")
-* [git-commit](./docs/Git_commit "git commit")
-* [git-tag](./docs/Git_tag "git tag")
-* [Git配置GPG密钥及签名tag & 签名commit](./docs/Git%E9%85%8D%E7%BD%AEGPG%E5%AF%86%E9%92%A5%E5%8F%8A%E7%AD%BE%E5%90%8Dtag%E5%92%8C%E7%AD%BE%E5%90%8Dcommit "Git配置GPG密钥及签名tag & 签名commit")
-* [Git中的HEAD_Branch](./docs/Git%E4%B8%AD%E7%9A%84HEAD_Branch "Git中的HEAD_Branch")
-* [Git选择修订版本](./docs/Git%E9%80%89%E6%8B%A9%E4%BF%AE%E8%AE%A2%E7%89%88%E6%9C%AC "Git选择修订版本")
+* [git-init](https://ninjiahub.github.io/Tools-Tricks/Git/docs/Git_init "git init")
+* [git-config](https://ninjiahub.github.io/Tools-Tricks/Git/docs/Git_Config "git conifg")
+* [git忽略文件](https://ninjiahub.github.io/Tools-Tricks/Git/docs/Git%E5%BF%BD%E7%95%A5%E6%96%87%E4%BB%B6 "git忽略文件")
+* [git-add](https://ninjiahub.github.io/Tools-Tricks/Git/docs/Git%E4%B8%AD%E7%9A%84add%E5%88%B0%E5%BA%95%E5%81%9A%E4%BA%86%E4%BB%80%E4%B9%88 "git add")
+* [git-commit](https://ninjiahub.github.io/Tools-Tricks/Git/docs/Git_commit "git commit")
+* [git-tag](https://ninjiahub.github.io/Tools-Tricks/Git/docs/Git_tag "git tag")
+* [Git配置GPG密钥及签名tag & 签名commit](https://ninjiahub.github.io/Tools-Tricks/Git/docs/Git%E9%85%8D%E7%BD%AEGPG%E5%AF%86%E9%92%A5%E5%8F%8A%E7%AD%BE%E5%90%8Dtag%E5%92%8C%E7%AD%BE%E5%90%8Dcommit "Git配置GPG密钥及签名tag & 签名commit")
+* [Git中的HEAD_Branch](https://ninjiahub.github.io/Tools-Tricks/Git/docs/Git%E4%B8%AD%E7%9A%84HEAD_Branch "Git中的HEAD_Branch")
+* [Git选择修订版本](https://ninjiahub.github.io/Tools-Tricks/Git/docs/Git%E9%80%89%E6%8B%A9%E4%BF%AE%E8%AE%A2%E7%89%88%E6%9C%AC "Git选择修订版本")
 
 ## 声明 🌲
 
