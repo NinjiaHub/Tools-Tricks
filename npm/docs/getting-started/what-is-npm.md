@@ -20,7 +20,7 @@ npm并不是指一个具体的东西，而是由三个不同的部分组成：[n
 
 npm使我们可以重用别人的代码，也让我们可以分享自己的代码给别的开发人员，而且还可以让我们更轻松地管理不同版本的npm包。
 
-## 参考
+## 参考 💻
 
 * [What is npm?](https://docs.npmjs.com/getting-started/what-is-npm)
 * [A Beginner’s Guide to npm — the Node Package Manager](https://www.sitepoint.com/beginners-guide-node-package-manager/)
@@ -33,9 +33,9 @@ npm使我们可以重用别人的代码，也让我们可以分享自己的代�
 
 内容如有不恰当或错误，敬请指正。
 
-作者邮箱：web.taox@gmail.com。
+作者邮箱：<web.taox@gmail.com>
 
-## Author Info
+## Author Info ✒️
 
 * [GitHub](https://github.com/Tao-Quixote)
-* Email: web.taox@gmail.com
+* Email: <web.taox@gmail.com>

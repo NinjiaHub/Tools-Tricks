@@ -42,7 +42,7 @@ $ npm update -g <package_name>
 
 ### See Also
 
-* [npm-outdated](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-outdated.md)
+* [npm-outdated](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-outdated "npm-outdated")
 
 ## 卸载全局包
 
@@ -52,7 +52,7 @@ $ npm uninstall -g <package_name>
 
 ### See Also
 
-* [npm-uninstall](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-uninstall.md)
+* [npm-uninstall](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-uninstall "npm-uninstall")
 
 ## 参考
 
@@ -66,9 +66,9 @@ $ npm uninstall -g <package_name>
 
 内容如有不恰当或错误，敬请指正。
 
-作者邮箱：web.taox@gmail.com。
+作者邮箱：<web.taox@gmail.com>
 
 ## Author Info
 
 * [GitHub](https://github.com/Tao-Quixote)
-* Email: web.taox@gmail.com
+* Email: <web.taox@gmail.com>

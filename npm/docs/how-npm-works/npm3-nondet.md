@@ -143,9 +143,9 @@ $ npm install mod-a@2 --save
 
 内容如有不恰当或错误，敬请指正。
 
-译者邮箱：web.taox@gmail.com。
+作者邮箱：<web.taox@gmail.com>
 
-## Translator Info
+## Author Info
 
 * [GitHub](https://github.com/Tao-Quixote)
-* Email: web.taox@gmail.com
+* Email: <web.taox@gmail.com>

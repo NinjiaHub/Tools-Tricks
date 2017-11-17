@@ -12,7 +12,7 @@
 @username/project-name
 ```
 
-其中的范围`username`即为在[npm](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/%E4%BB%80%E4%B9%88%E6%98%AFnpm.md)上注册时的用户名。
+其中的范围`username`即为在[npm](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/what-is-npm)上注册时的用户名。
 
 ## 使用范围包的要求
 
@@ -101,9 +101,9 @@ import sp from '@username/project-name'
 
 内容如有不恰当或错误，敬请指正。
 
-作者邮箱：web.taox@gmail.com。
+作者邮箱：<web.taox@gmail.com>
 
-## Author Info
+## Author Info ✒️
 
 * [GitHub](https://github.com/Tao-Quixote)
-* Email: web.taox@gmail.com
+* Email: <web.taox@gmail.com>

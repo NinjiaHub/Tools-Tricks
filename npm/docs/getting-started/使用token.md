@@ -33,7 +33,7 @@ $ npm token list
 
 如果在个人设置中开启了2FA验证，就多了一层防护机制。没有人可以在不提供第二层验证(OTP)的情况下修改你账户的token。
 
-**注意：表格中显示的token只是截取的token的一部分。如果想看完整的token请戳👉[npmrc](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/config-npm/npmrc.md)**
+**注意：表格中显示的token只是截取的token的一部分。如果想看完整的token请戳👉[npmrc](https://ninjiahub.github.io/Tools-Tricks/npm/docs/config-npm/npmrc.md)**
 
 ## 创建新token
 
@@ -138,9 +138,9 @@ $ npm token delete <id | token>
 
 内容如有不恰当或错误，敬请指正。
 
-作者邮箱：web.taox@gmail.com。
+作者邮箱：<web.taox@gmail.com>
 
-## Author Info
+## Author Info ✒️
 
 * [GitHub](https://github.com/Tao-Quixote)
-* Email: web.taox@gmail.com
+* Email: <web.taox@gmail.com>

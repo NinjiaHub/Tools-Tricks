@@ -8,8 +8,8 @@
 
 ### See Also
 
-* [npm-update](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-update.md)
-* [npm-outdate](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-outdate.md)
+* [npm-update](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-update "npm-update")
+* [npm-outdated](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-outdated "npm-outdated")
 
 ## 卸载本地npm包
 
@@ -31,7 +31,7 @@ $ npm uninstall --save-dev <package_name>
 
 ### See Also
 
-* [npm-uninstall](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-uninstall.md)
+* [npm-uninstall](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-uninstall "npm-uninstall")
 
 ## 参考
 
@@ -46,9 +46,9 @@ $ npm uninstall --save-dev <package_name>
 
 内容如有不恰当或错误，敬请指正。
 
-作者邮箱：web.taox@gmail.com。
+作者邮箱：<web.taox@gmail.com>
 
 ## Author Info
 
 * [GitHub](https://github.com/Tao-Quixote)
-* Email: web.taox@gmail.com
+* Email: <web.taox@gmail.com>
