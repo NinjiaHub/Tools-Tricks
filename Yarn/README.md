@@ -13,9 +13,9 @@
 
 多数文章中的内容是在学习的过程中记录的，所以难免有错误、不准确和不恰当的地方，有问题的地方请斧正，请提`Merge Request`给作者。
 
-作者邮箱：web.taox@mail.com。
+作者邮箱：<web.taox@mail.com>。
 
 ## Author Info
 
 * [GitHub](https://github.com/Tao-Quixote)
-* Email: web.taox@gmail.com
+* Email: <web.taox@gmail.com>
