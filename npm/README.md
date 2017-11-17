@@ -20,7 +20,7 @@
 	* 进阶
 		* [SemVer](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/SemVer)
 		* [Node查找依赖包/库的规则](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/Node%E6%9F%A5%E6%89%BE%E4%BE%9D%E8%B5%96%E5%8C%85-%E5%BA%93%E7%9A%84%E8%A7%84%E5%88%99)
-		* [使用范围包-scoped-packages](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/getting-started/%E4%BD%BF%E7%94%A8%E8%8C%83%E5%9B%B4%E5%8C%85-scoped-packages)
+		* [使用范围包-scoped-packages](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/getting-started/use-scoped-packages)
 		* [使用标签](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/%E4%BD%BF%E7%94%A8%E6%A0%87%E7%AD%BE)
 		* [npm中使用2FA](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/npm%E4%B8%AD%E4%BD%BF%E7%94%A82FA)
 		* [使用token](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/%E4%BD%BF%E7%94%A8token)
