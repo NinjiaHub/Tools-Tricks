@@ -1,10 +1,10 @@
-# README
+# README 📖
 
 主要介绍Node中的js包管理工具：`npm`相关的概念、用法以及一些常见问题的解决办法。
 
 该系列文章的主要参考文档为[npm官方文档](https://docs.npmjs.com/)，其余参考文章及文档，会在文章中的**参考**部分给出。
 
-## 推荐阅读顺序
+## 推荐阅读顺序 🔗
 
 * 起步
 	* 概念
@@ -34,36 +34,36 @@
 * CLI 命令
 	* [CLI Commands Git仓库地址](https://github.com/NinjiaHub/NPM-CLI-Commands)
 	* CLI 命令链接
-		* [npm-bin](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-bin.md "npm-bin")
-		* [npm-bugs](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-bugs.md "npm-bugs")
-		* [npm-build](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-build.md "npm-build")
-		* [npm-config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-config")
-		* [npm-dedupe](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dedupe.md "npm-dedupe")
-		* [npm-docs](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-docs.md "npm-docs")
-		* [npm-edit](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-edit.md "npm-edit")
-		* [npm-help](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-help.md "npm-help")
-		* [npm-help-search](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-help-search.md "npm-help-search")
-		* [npm-ls](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-ls.md "npm-ls")
-		* [npm-outdated](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-outdated.md)
-		* [npm-prefix](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-prefix.md "npm-prefix")
-		* [npm-profile](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-profile.md)
-		* [npm-prune](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-prune.md "npm-prune")
-		* [npm-repo](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-repo.md "npm-repo")
-		* [npm-star](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-star.md "npm-star")
-		* [npm-stars](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-stars.md "npm-stars")
-		* [npm-start](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-start.md "npm-start")
-		* [npm-stop](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-stop.md "npm-stop")
-		* [npm-test](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-test.md "npm-test")
-		* [npm-token](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-token.md)
-		* [npm-whoami](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-whoami.md "npm-whoami")
+		* [npm-bin](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-bin "npm-bin")
+		* [npm-bugs](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-bugs "npm-bugs")
+		* [npm-build](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-build "npm-build")
+		* [npm-config](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-config "npm-config")
+		* [npm-dedupe](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-dedupe "npm-dedupe")
+		* [npm-docs](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-docs "npm-docs")
+		* [npm-eidt](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-edit "npm-edit")
+		* [npm-help](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-help "npm-help")
+		* [npm-help-search](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-help-search "npm-help-search")
+		* [npm-ls](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-ls "npm-ls")
+		* [npm-outdated](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-outdated "npm-outdated")
+		* [npm-prefix](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-prefix "npm-prefix")
+		* [npm-profile](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-profile "npm-profile")
+		* [npm-prune](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-prune "npm-prune")
+		* [npm-repo](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-repo "npm-repo")
+		* [npm-star](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-star "npm-star")
+		* [npm-stars](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-stars "npm-stars")
+		* [npm-start](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-start "npm-start")
+		* [npm-stop](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-stop "npm-stop")
+		* [npm-test](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-test "npm-test")
+		* [npm-token](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-token "npm-token")
+		* [npm-whoami](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-whoami "npm-whoami")
 
-## 注释
+## 注释 🎫
 
 ### 关于CLI Commands
 
 其实npm CLI Commands属于npm工具，是npm的一部分，但是在刚开写npm这部分时计划根据自己的使用经验以及完整看官方文档写一个总结+笔记的东西，后来再完整看npm CLI Commands这部分时，感觉作为一个完整的翻译应该比较好，所以npm CLI Commands这部分作为一个单独的仓库拆出去了，但是依然写在了npm的推荐阅读部分，也算是全面掌握npm时需要熟练掌握的部分。
 
-## 声明
+## 声明 🌲
 
 该目录下的文章，有的是笔记，有的是自己写的总结；部分内容来自网络或者书籍，如果涉及版权问题，请联系作者。
 
@@ -71,9 +71,9 @@
 
 多数文章中的内容是在学习的过程中记录的，所以难免有错误、不准确和不恰当的地方，有问题的地方请斧正，请提`Merge Request`给作者。
 
-作者邮箱：web.taox@mail.com。
+作者邮箱：<web.taox@mail.com>
 
-## Author Info
+## Author Info ✒️
 
 * [GitHub](https://github.com/Tao-Quixote)
-* Email: web.taox@gmail.com
+* Email: <web.taox@gmail.com>
