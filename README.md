@@ -2,10 +2,10 @@
 
 该仓库主要包括下面几个部分：
 
-* [Babel](https://github.com/NinjiaHub/Tools-Tricks/tree/master/Babel)：ES5+语法转译工具
-* [Git](https://github.com/NinjiaHub/Tools-Tricks/tree/master/Git)：版本管理工具
-* [Npm](https://github.com/NinjiaHub/Tools-Tricks/tree/master/npm)：Node包管理工具
-* [Yarn](https://github.com/NinjiaHub/Tools-Tricks/tree/master/Yarn)：Node包管理工具(Facebook, Google等联合开发)
+* [Babel](https://ninjiahub.github.io/Tools-Tricks/Babel "ES5+语法转译工具")：ES5+语法转译工具
+* [Git](https://ninjiahub.github.io/Tools-Tricks/Git "版本管理工具Git")：版本管理工具
+* [Npm](https://ninjiahub.github.io/Tools-Tricks/npm "Node包管理工具")：Node包管理工具
+* [Yarn](https://ninjiahub.github.io/Tools-Tricks/Yarn "Node包管理工具")：Node包管理工具(Facebook, Google等联合开发)
 
 ## Tips
 
@@ -19,6 +19,5 @@
 
 ## Author Info
 
-[GitHub](https://github.com/Tao-Quixote)
-
-Email: web.taox@gmail.com
+* [GitHub](https://github.com/Tao-Quixote)
+* Email: <web.taox@gmail.com>
