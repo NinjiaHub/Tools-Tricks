@@ -8,29 +8,29 @@
 
 * 起步
 	* 概念
-		* [什么是npm](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/%E4%BB%80%E4%B9%88%E6%98%AFnpm.md)
+		* [什么是npm](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/%E4%BB%80%E4%B9%88%E6%98%AFnpm)
 	* 安装 
-		* [修复npm安装全局包/命令的权限问题](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/npm%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98.md)
-		* [局部安装npm包](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/npm%E5%B1%80%E9%83%A8%E5%AE%89%E8%A3%85%E5%8C%85%E7%9A%84%E7%AE%A1%E7%90%86.md)
-		* [使用package.json](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/%E4%BD%BF%E7%94%A8package.json.md)
-		* [npm更新／卸载本地npm包](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/npm%E6%9B%B4%E6%96%B0%E4%B8%8E%E5%8D%B8%E8%BD%BD%E6%9C%AC%E5%9C%B0npm%E5%8C%85.md)
-		* [npm全局安装包的管理](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/npm%E5%85%A8%E5%B1%80%E5%AE%89%E8%A3%85%E5%8C%85%E7%9A%84%E7%AE%A1%E7%90%86.md)
+		* [修复npm安装全局包/命令的权限问题](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/npm%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98)
+		* [局部安装npm包](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/npm%E5%B1%80%E9%83%A8%E5%AE%89%E8%A3%85%E5%8C%85%E7%9A%84%E7%AE%A1%E7%90%86)
+		* [使用package.json](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/%E4%BD%BF%E7%94%A8package.json)
+		* [npm更新／卸载本地npm包](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/npm%E6%9B%B4%E6%96%B0%E4%B8%8E%E5%8D%B8%E8%BD%BD%E6%9C%AC%E5%9C%B0npm%E5%8C%85)
+		* [npm全局安装包的管理](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/npm%E5%85%A8%E5%B1%80%E5%AE%89%E8%A3%85%E5%8C%85%E7%9A%84%E7%AE%A1%E7%90%86)
 	* 创建/发布npm包
-		* [创建Node.js模块](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/%E5%88%9B%E5%BB%BANode.js%E6%A8%A1%E5%9D%97.md)
+		* [创建Node.js模块](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/%E5%88%9B%E5%BB%BANode.js%E6%A8%A1%E5%9D%97)
 	* 进阶
-		* [SemVer](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/SemVer.md)
-		* [Node查找依赖包/库的规则](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/Node%E6%9F%A5%E6%89%BE%E4%BE%9D%E8%B5%96%E5%8C%85-%E5%BA%93%E7%9A%84%E8%A7%84%E5%88%99.md)
-		* [使用范围包-scoped-packages](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/getting-started/%E4%BD%BF%E7%94%A8%E8%8C%83%E5%9B%B4%E5%8C%85-scoped-packages.md)
-		* [使用标签](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/%E4%BD%BF%E7%94%A8%E6%A0%87%E7%AD%BE.md)
-		* [npm中使用2FA](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/npm%E4%B8%AD%E4%BD%BF%E7%94%A82FA.md)
-		* [使用token](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/%E4%BD%BF%E7%94%A8token.md)
-		* [使用命令行修改个人简介](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BF%AE%E6%94%B9%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B.md)
+		* [SemVer](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/SemVer)
+		* [Node查找依赖包/库的规则](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/Node%E6%9F%A5%E6%89%BE%E4%BE%9D%E8%B5%96%E5%8C%85-%E5%BA%93%E7%9A%84%E8%A7%84%E5%88%99)
+		* [使用范围包-scoped-packages](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/getting-started/%E4%BD%BF%E7%94%A8%E8%8C%83%E5%9B%B4%E5%8C%85-scoped-packages)
+		* [使用标签](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/%E4%BD%BF%E7%94%A8%E6%A0%87%E7%AD%BE)
+		* [npm中使用2FA](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/npm%E4%B8%AD%E4%BD%BF%E7%94%A82FA)
+		* [使用token](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/%E4%BD%BF%E7%94%A8token)
+		* [使用命令行修改个人简介](https://ninjiahub.github.io/Tools-Tricks/npm/docs/getting-started/%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BF%AE%E6%94%B9%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B)
 * How npm works
-	* [01-包和模块(Packages-and-Modules)](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/packages.md)
-	* [02-npm v2](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm2.md)
-	* [03-npm v3](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm3.md)
-	* [04-npm v3 依赖重复](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm3-dupe.md)
-	* [05-npm v3 不确定性](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/how-npm-works/npm3-nondet.md)
+	* [01-包和模块(Packages-and-Modules)](https://ninjiahub.github.io/Tools-Tricks/npm/docs/how-npm-works/packages)
+	* [02-npm v2](https://ninjiahub.github.io/Tools-Tricks/npm/docs/how-npm-works/npm2)
+	* [03-npm v3](https://ninjiahub.github.io/Tools-Tricks/npm/docs/how-npm-works/npm3)
+	* [04-npm v3 依赖重复](https://ninjiahub.github.io/Tools-Tricks/npm/docs/how-npm-works/npm3-dupe)
+	* [05-npm v3 不确定性](https://ninjiahub.github.io/Tools-Tricks/npm/docs/how-npm-works/npm3-nondet)
 * CLI 命令
 	* [CLI Commands Git仓库地址](https://github.com/NinjiaHub/NPM-CLI-Commands)
 	* CLI 命令链接
