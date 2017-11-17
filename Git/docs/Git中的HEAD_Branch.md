@@ -6,4 +6,9 @@
 
 ## 声明
 
-作者邮箱：web.taox@gmail.com
+作者邮箱：<web.taox@gmail.com>
+
+## Author Info
+
+* [GitHub](https://github.com/Tao-Quixote)
+* Email: <web.taox@gmail.com>

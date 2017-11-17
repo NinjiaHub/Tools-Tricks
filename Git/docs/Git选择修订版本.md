@@ -11,14 +11,9 @@
 
 侵删。
 
-邮箱：web.taox@gmail.com
+作者邮箱：<web.taox@gmail.com>
 
-* 1、4个小时
-* 2、2个小时
-* 3、4个小时
-* 4、4个小时
-* 5、10个小时
-* 7、6个小时
-* 8、1个小时(正常情况改动可以忽略，这一个小时用来容错，以防突发情况)
-* 9、4个小时
-* 10、
+## Author Info
+
+* [GitHub](https://github.com/Tao-Quixote)
+* Email: <web.taox@gmail.com>

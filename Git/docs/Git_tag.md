@@ -80,7 +80,7 @@ index 23a266e..a3285e4 100644
 
 ### 3、GPG
 
-Git中配置`GPG`密钥及设置`tag``commit`签名请[👇戳这里](https://github.com/NinjiaHub/Tools-Tricks/blob/master/Git/documents/Git%E9%85%8D%E7%BD%AEGPG%E5%AF%86%E9%92%A5%E5%8F%8A%E7%AD%BE%E5%90%8Dtag%E5%92%8C%E7%AD%BE%E5%90%8Dcommit.md)
+Git中配置`GPG`密钥及设置`tag``commit`签名请[👇戳这里](http://tools-tricks.taojihede.com/Git/docs/Git%E9%85%8D%E7%BD%AEGPG%E5%AF%86%E9%92%A5%E5%8F%8A%E7%AD%BE%E5%90%8Dtag%E5%92%8C%E7%AD%BE%E5%90%8Dcommit "Git配置GPG密钥及签名tag和签名commit")
 
 ## 补tag
 
