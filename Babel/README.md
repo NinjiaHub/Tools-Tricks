@@ -4,7 +4,7 @@
 
 ## 推荐阅读顺序
 
-* [Transpiling & Polyfilling](./docs/Transpiling%26Polyfilling.md)
+* [Transpiling & Polyfilling](./docs/Transpiling%26Polyfilling "Transpiling & Polyfilling")
 
 ## 声明
 
