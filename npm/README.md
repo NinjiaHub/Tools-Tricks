@@ -37,6 +37,7 @@
 		* [npm-bin](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-bin "npm-bin")
 		* [npm-bugs](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-bugs "npm-bugs")
 		* [npm-build](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-build "npm-build")
+		* [npm-bundle](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-bundle "npm-bundle")
 		* [npm-config](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-config "npm-config")
 		* [npm-dedupe](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-dedupe "npm-dedupe")
 		* [npm-docs](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-docs "npm-docs")
