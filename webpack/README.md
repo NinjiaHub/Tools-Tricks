@@ -4,7 +4,7 @@
 
 ## List 🔗
 
-* [dynamic import](./docs/dynamic_import "dynamic import")
+* [dynamic import](./docs/dynamic_import.md "dynamic import")
 
 ## 声明 🌲
 
