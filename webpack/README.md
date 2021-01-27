@@ -4,7 +4,7 @@
 
 ## List 🔗
 
-* [dynamic import](https://ninjiahub.github.io/Tools-Tricks/webpack/docs/dynamic_import "dynamic import")
+* [dynamic import](./docs/dynamic_import "dynamic import")
 
 ## 声明 🌲
 
