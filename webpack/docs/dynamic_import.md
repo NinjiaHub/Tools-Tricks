@@ -6,7 +6,7 @@ webpack@4.x 支持动态导入模块，这是代码分割的一个实现方式�
 // src/index.js
 async function getComponent() {
   const element = document.createElement('div');
-  const { default: _ } = await import('lodash');
+  const { default: _ } = await import(/* webpackChunkName: "momentjs" */ 'lodash');
 
   element.innerHTML = _.join(['Hello', 'webpack'], ' ');
 
